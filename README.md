@@ -1,6 +1,7 @@
 # VIRTUAL LAB SET UP
  HOW TO SET UP A VIRTUAL LAB
-Setting up a virtual lab typically involves creating a simulated environment that can be used for experimentation, training, or testing without needing physical equipment. Here's a guide on how to set up a basic virtual lab:
+ 
+  Setting up a virtual lab typically involves creating a simulated environment that can be used for experimentation, training, or testing without needing physical equipment. Here's a guide on how to set up a basic virtual lab:
 
 ### 1. **Determine the Purpose of the Virtual Lab**
    - **Educational**: To teach a specific skill or subject (e.g., networking, cybersecurity, programming).
